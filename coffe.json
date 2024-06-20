@@ -1,0 +1,37 @@
+[
+  {
+      "id": 1,
+      "coffee": "Cappucino",
+      "imgCoffe":
+        "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/indizone/2019/10/07/ers0M9/t_5d9ae209ae934.jpg",
+      "price": 20000
+  },
+  {
+      "id": 2,
+      "coffee": "Espresso",
+      "imgCoffe":
+        "https://awsimages.detik.net.id/community/media/visual/2021/12/19/3-trik-bikin-kopi-espresso-tanpa-mesin-hasilnya-tetap-nikmat_169.jpeg?w=1200",
+      "price": 10000
+  },
+  {
+      "id": 3,
+      "coffee": "Americano",
+      "imgCoffe":
+        "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//98/MTA-54187613/freshly_baked_by_origin_bakery_americano_full02_kd07blpv.jpg",
+      "price": 15000
+  },
+  {
+      "id": 4,
+      "coffee": "V60 Coffee",
+      "imgCoffe":
+        "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/8/2/b5a3af94-6721-48b0-aaaa-b651478aae29.jpg",
+      "price": 18000
+  },
+  {
+      "id": 5,
+      "coffee": "Ice Coffee Milk",
+      "imgCoffe":
+        "https://www.indoindians.com/wp-content/uploads/2019/10/ice-kopi-susu.jpg",
+      "price": 21000
+  }
+]

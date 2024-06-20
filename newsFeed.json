@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "tittle": "Start Morning With Espresso",
+    "img": "https://cdn.sanity.io/images/t3ffnogl/production/78e7824b72cfee9b388997a86d9435d329cc7f0a-1500x1000.jpg?h=500&w=800",
+    "user": "therock",
+    "userImg": "https://i.pinimg.com/236x/18/96/c4/1896c4a97f06c6c1df063b45390a2bd6.jpg"
+  },
+  {
+    "id": 2,
+    "tittle": "Third Wave Coffee Culture",
+    "img": "https://specialtycoffee.id/wp-content/uploads/2023/03/Third-Wave-Coffee-1920-x-1080px.jpg",
+    "user": "gojocat",
+    "userImg": "https://i.pinimg.com/564x/5b/38/d6/5b38d6aa1993e0bc69d0142df6340b60.jpg"
+  },
+  {
+    "id": 3,
+    "tittle": "Climate Change and Coffee",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuX-MQG_aNebdrjRgPmalLe5OiTC3Lvdn8A&s",
+    "user": "bangdodo",
+    "userImg": "https://i.pinimg.com/564x/2b/82/20/2b8220932fa6df03d7b8c89ee084185f.jpg"
+  },
+  {
+    "id": 4,
+    "tittle": "Cold Brew Coffee Craze",
+    "img": "https://fortune.com/img-assets/wp-content/uploads/2016/07/coldbrew-otg-family-all.jpg?w=1440&q=75",
+    "user": "jarjitsg",
+    "userImg": "https://i.pinimg.com/564x/1b/e2/3e/1be23edf5b34fa802c5c5b9bf4aea793.jpg"
+  }
+]

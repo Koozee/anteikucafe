@@ -1,0 +1,16 @@
+[
+  {
+      "id": 1,
+      "coffee": "Cappucino",
+      "imgCoffe":
+        "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/indizone/2019/10/07/ers0M9/t_5d9ae209ae934.jpg",
+      "price": 20000
+  },
+  {
+      "id": 2,
+      "coffee": "Espresso",
+      "imgCoffe":
+        "https://awsimages.detik.net.id/community/media/visual/2021/12/19/3-trik-bikin-kopi-espresso-tanpa-mesin-hasilnya-tetap-nikmat_169.jpeg?w=1200",
+      "price": 10000
+  }
+]
